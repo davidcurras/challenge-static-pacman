@@ -17,8 +17,8 @@ body {
 }
 
 #pacman {
-    top: 10px;
-    left: 10px;
+    top: 20px;
+    left: 30px;
     background-image: url("../assets/pacman.png");
 }
 
